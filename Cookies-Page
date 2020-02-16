@@ -1,0 +1,557 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Blog,lifestyle,momy,cake,kurabiye,pasta,krema,cookie</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body style="background-color: #FFCCCC">
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="top-menu">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-7 text-left menu-1">
+								<ul>
+									<div id="sayfalogo">
+						<img src="logo.png">
+					</div>
+								</ul>
+								<ul>
+									<li class="active"><a href="index.html"><i>Anasayfa</i>/a></li>
+									<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıstırmalıklar</i></a></li>
+									<li class="has-dropdown">
+										<a href="tatlı.html"><i>Tatlılar</i></a>
+										<ul class="dropdown">
+											<li><a href="kekler.html"><i>Kekler</i></a></li>
+											<li><a href="kapkekler.html"><i>Mini Kekler</i></a></li>
+											<li><a href="pastalar.html"><i>Pastalar</i></a></li>
+											<li><a href="kurabiyeler.html"><i>Kurabiyeler</i></a></li>
+										</ul>
+									</li>
+									<li><a href="about.html"><i>Hakkımda</i></a></li>
+									<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i></a></li>
+								</ul>
+							</div>
+							<div class="col-sm-5">
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+
+	<div id="fh5co-content" class="fh5co-no-pd-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9 col-padded-right">
+					<div class="row animate-box">
+				<div class="col-md-12 col-md-offset-0 text-center fh5co-heading">
+					<h2><span><i>Tuzlu Kurabiyeler</i></span></h2>
+				</div>
+			</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center"> 
+									<h3><a>Tuzlu Kurabiye</a></h3>
+								</div>
+								<a><img class="img-responsive" src="images/tuzlukurabiye.png" alt=""></a>
+								<div class="blog-text text-center">
+								<h2><a> Tuzlu Kurabiye Tarifi için Mazemeler </h2></a>
+							<p>
+								125 gram eritilmiş margarin
+3/4 su bardağı sıvı yağ
+3/4 su bardağı yoğurt
+1 tatlı kaşığı tuz
+1 tatlı kaşığı toz şeker
+1 paket kabartma tozu
+Dört buçuk su bardağı un
+Üzerine:
+Çörek otu
+1 adet yumurtanın sarısı</p><br>
+<h3> Tuzlu Kurabiye Tarifi Nasıl Yapılır?</h3>
+
+<p><i>
+Bir kapta margarin, sıvı yağ, yoğurt, tuz ve toz şekeri iyice karıştırın. Elenmiş un ve kabartma tozunu ekleyip yoğurun. Hamuru merdane ile biraz açın. Yıldız şeklindeki kalıp yardımıyla parçalar hazırlayın. Yıldızları, yağlanmış fırın tepsisine dizin. Üzerlerine yumurta sarısı sürüp çörek otu serpin. Önceden ısıtılmış 170 derece fırında, 30-35 dakika üzerleri pembeleşene kadar pişirin. Soğuduktan sonra servis yapın.</i></p>
+ 
+ 
+<h3>PÜF NOKTASI<h3>
+<p><i>Yıldız kalıbınız yoksa, hamuru boru gibi yuvarlayıp, bıçakla keserek yassı, yuvarlak kurabiyeler yapabilirsiniz.</i></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href>Fındıklı Tuzlu Kurabiye</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/ev-yapimi-musli-tarifi.png" alt=""></a>
+								<div class="blog-text text-center">
+								<h3><a>Fındıklı Tuzlu Kurabiye Tarifi İçin Malzemeler</h3>
+								<p>
+								HAMURU İÇİN:
+3 çorba kaşığı fındık unu
+1 su bardağı karabuğday unu
+1/2 su bardağı mısır unu
+1 adet yumurtanın akı
+20 gram tereyağı
+2 çorba kaşığı zeytinyağı
+1 çorba kaşığı pekmez
+1-2 tutam kaya tuzu
+1/2 su bardağı su
+1 çay kaşığı toz mahlep
+ÜZERİ İÇİN:
+1 adet yumurta sarısı
+File fındık</p><br>
+<h3>Fındıklı Tuzlu Kurabiye Tarifi Nasıl Yapılır?</h3>
+<p><i>Hamur malzemesini derin bir kaba alıp yoğurun ve yapışkan kıvamlı bir hamur elde edin. Elinizi ara sıra ıslatarak hamurdan mandalina büyüklüğünde bezeler koparıp rulo yapın ve uçlarını üst üste koyarak birleştirin. Yumurta sarısı sürüp, fındık serpin ve pişirme kağıdı ile kaplanmış fırın tepsisine yerleştirin. Önceden ısıtılmış 160 derece fırında renk değiştirip, fındık kızarana dek pişirin</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a>Çörek otlu Kurabiye</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/812x467-585370230280.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3><a>Çörek otlu Kurabiye Tarifi İçin Malzemeler</h3>
+								<p>
+								200 gram margarin
+2 kahve fincanı sıvı yağ
+2 kahve fincanı yoğurt
+1 adet yumurta + 1 adet yumurtanın akı
+Aldığı kadar un
+Tuz
+200 gram beyaz peynir
+Üzeri için:
+1 adet yumurtanın sarısı
+1 tatlı kaşığı çörek otu
+								</p>
+                            
+                               <h3>Çörek otlu Kurabiye Tarifi Nasıl Yapılır?</h3>
+
+								<p><i> Kurabiye hamuru için ilk olarak margarini eritip ılınmaya bırakın. Unu bir kaba alıp ortasını havuz gibi açın.
+Erimiş margarin, sıvı yağ, tuz, yoğurt, yumurta ve yumurta akını ekleyip yoğurun. Kulak memesinden daha
+yumuşak bir hamur elde edin. Mandalina büyüklüğünde parçalar koparıp avucunuzun içinde açın. Hamurun içine rendelenmiş peynir koyup yuvarlayın. Yağlanmış ya da yağlı kağıt serilmiş fırın tepsisine aralıklarla
+dizin. Kurabiyelerin üzerine bir fırça yardımıyla yumurta sarısı sürün. Üzerine çörek otu serpin. Önceden
+ısıtılmış 170 derece fırında üzerleri kızarana kadar pişirin.</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href="#">Çıtır kurabiyeler</a></h2>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/812x467-547902765369.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3>Çıtır kurabiyeler Tarifi İçin Malzemeler</h3>
+									<p>
+									4 adet yumurta
+1 su bardağı+1 çorba kaşığı toz şeker
+Yarım su bardağı+2 çorba kaşığı sıvı yağ
+1 çay kaşığı anason, 4 su bardağı un
+1 çay kaşığı üzüm sirkesi
+2 çay kaşığı kabartma tozu
+250 gram kıyılmış ceviz</p>
+									<h3>Çıtır kurabiyeler Tarifi Nasıl Yapılır?</h3>
+									<p><i>Yumurta, toz şeker, sıvı yağ ve anasonu iyice çırpın. Yavaş yavaş un ekleyin. Sirke, kabartma tozu ve ceviz ilave edip, yumuşak kıvamlı bir hamur elde edene dek yoğurun. Yağlanmış, yuvarlak fırın tepsisine alıp yayın. Önceden ısıtılmış 180 derece fırında 10 dakika pişirin. Tepsiyi fırından alıp, ikişer cm aralıklı olacak şekilde kare kesin. Tepsiyi, önceden ısıtılmış 180 derece fırına yeniden yerleştirin. 15 dakika pişirip soğumaya bırakın. Ilık veya soğuk servis yapın.</i></p>
+
+
+
+
+
+
+
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href="#">Cips Tatında Baharatlı Kurabiye</a></h2>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/812x467-baharatli-sarimsakli-citir-tortilla-1547710587517.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3>Cips Tatında Baharatlı Kurabiye Tarifi İçin Malzemeler</h3>
+1 paket küçük boy lavaş (15 cm çapında)
+1 çay bardağı zeytinyağı
+1' er tatlı kaşığı kekik , çörekotu , mavi ve beyaz haşhaş
+1'er çay kaşığı pulbiber ve sarmısak tozu</p>
+									<h3>Cips Tatında Baharatlı Kurabiye Tarifi Nasıl Yapılır?</h3>
+									<p><i>Lavaş dışında kalan tüm malzemeyi derin bir kaseye alıp karıştırın. Lavaşları, varsa tırtıklı hamur ruleti veya bıçakla her bir lavaştan 8 adet üçgen parça çıkacak şekilde kesin. Daha sonra pişirme kağıdı ile kaplanmış iki adet fırın tepsisine tek sıra olacak şekilde yerleştirin. Üzerlerine fırça yardımıyla zeytinyağlı baharat karışımını sürün. Önceden ısıtılmış 140 derece fırında 15 dakika, üzerleri pembeleşene kadar pişirin. Soğuduktan sonra servis yapın.</i></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+				
+
+
+
+				<div id="fh5co-content" class="fh5co-no-pd-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9 col-padded-right">
+					<div class="row animate-box">
+				<div class="col-md-12 col-md-offset-0 text-center fh5co-heading">
+					<h2><span><i>Tatlı Kurabiyeler</i></span></h2>
+				</div>
+			</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center"> 
+									<h3><a>Tatlı Susamlı Kurabiye</a></h3>
+								</div>
+								<a><img class="img-responsive" src="images/812x467-1547723304920.png" alt=""></a>
+								<div class="blog-text text-center">
+								<h2><a>Tatlı Susamlı Kurabiye Tarifi için Mazemeler </h2></a>
+							<p>
+								1 paket (ortalama 75 gram) susam
+1 çay kaşığı tarçın,
+2.5 su bardağı un
+250 gram oda sıcaklığında tereyağı
+1 çay bardağı tozşeker
+1/2 çay bardağı ince çekilmiş fındık
+1 paket kabartma tozu,
+1 paket vanilya
+ 
+Üzeri için:
+Pudraşekeri, tarçın</p><br>
+<h3> Tatlı Susamlı Kurabiye Tarifi Nasıl Yapılır?</h3>
+
+<p><i>
+Tüm malzemeyi geniş bir kaseye alıp, yumuşak ve pürüzsüz bir hamur haline gelene kadar yoğurun. Hamurdan küçük bezeler koparıp, avucunuzda yuvarlayın ve pişirme kağıdı ile kaplanmış fırın tepsisine aralıklı olarak yerleştirin. Önceden ısıtılmış 180 derece fırında, altın sarısı renk alana kadar yaklaşık 20-25 dakika pişirin. Fırından çıkan kurabiyeleri 5 dakika tepside dinlendirip üzerine pudraşekeri ve tarçın karışımını serpin ve servis yapın.</i></p>
+
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href>Kuru Kayısılı Kurabiye Kurabiye</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/812x467-kuru-kayisili-kurabiye-1539261551756.png" alt=""></a>
+								<div class="blog-text text-center">
+								<h3><a>Kuru Kayısılı Kurabiye Tarifi İçin Malzemeler</h3>
+								<p>
+								200 gram kuru kayısı
+160 gram tereyağı,
+1 adet yumurta
+170 gram pudra şekeri
+2 çorba kaşığı kayısı marmeladı
+2 su bardağı+5 çorba kaşığı un 1 paket vanilya,
+1 tatlı kaşığı kabartma tozu
+Üzeri İçin: 1 su bardağı pudra şekeri
+2 çorba kaşığı limon suyu
+File fındık</p><br>
+<h3>Kuru Kayısılı Kurabiye Kurabiye Tarifi Nasıl Yapılır?</h3>
+<p><i>Oda sıcaklığındaki tereyağı, yumurta ve pudra şekerini kabarıp beyazlaşana dek çırpın. Marmelat, vanilya ve küp doğranmış kayısı ekleyip karıştırın. Ayrı bir yerde un ve kabartma tozunu karıştırıp eleyin. Tereyağlı karışıma ekleyip karıştırın. Hamur çok yumuşak olduysa buzdolabında 30 dakika dinlendirin. 5-6 cm çapında rulo yapıp pişirme kağıdı ile sarın ve derin dondurucuda sertleşene dek dinlendirin. 5 mm kalınlığında yuvarlak dilimleyip, pişirme kağıdı ile kaplanmış fırın tepsisine yerleştirin. Önceden ısıtılmış 180 derece fırında, altın rengi olana dek yaklaşık 15 dakika pişirin ve soğumaya bırakın. Üzeri için pudra şekerini eleyip, azar azar limon suyu ekleyin ve karıştırın. Kurabiyeleri bu karışıma bulayın ve kuruduktan sonra servis yapın</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a>Yulaf Ezmeli Çikolatalı Kurabiye</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/cikolatalikurabiye.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3><a>Yulaf Ezmeli Çikolatalı Kurabiye Tarifi İçin Malzemeler</h3>
+								<p>
+								7-8 tatlı kaşığı bitter çikolatalı fındık kreması
+KURABİYE HARCI İÇİN:
+2 su bardağı yulaf ezmesi
+3 çorba kaşığı file fındık
+3 çorba kaşığı esmer şeker
+1 tatlı kaşığı tarçın
+3 çorba kaşığı oda sıcaklığında tereyağı
+1 adet yumurtanın akı
+								</p>
+                            
+                               <h3>Yulaf Ezmeli Çikolatalı Kurabiye Tarifi Nasıl Yapılır?</h3>
+
+								<p><i> Geniş bir tabağı pişirme kağıdı ile kaplayıp, 7-8 tatlı kaşığı çikolata kremasını parça parça tabağa yerleştirin ve derin dondurucuya koyun. Harç için tüm malzemeyi derin bir kapta karıştırın. Harçtan cevizden biraz daha küçük bir parça alıp, avucunuzda yassılaştırın. Üzerine derin dondurucudan aldığınız 1 parça donmuş çikolata kreması yerleştirin. Harçtan yeniden cevizden daha küçük bir parça alıp üzerine yerleştirin. İki avucunuzun ortasında hafifçe yassılaştırın. Kalan malzemeyi de aynı şekilde hazırlayın ve pişirme kağıdı ile kaplanmış fırın tepsisine aralıklı olarak yerleştirin. Önceden ısıtılmış 160 derece fırında 25 dakika pişirin. Ilık olarak servis yapın.</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href="#"> Vişne Dolgulu Kurabiyeler</a></h2>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/812x467-visne-dolgulu-brownie-kurabiye-1536907940732 (1).png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3>Vişne Dolgulu Kurabiyeler Tarifi İçin Malzemeler</h3>
+									<p>
+									KURABİYE HAMURU İÇİN:
+1 adet yumurta
+1/2 su bardağı pudra şekeri
+1/2 su bardağı sıvı yağ
+120 gram oda sıcaklığında tereyağı
+3.5 su bardağı un
+3 çorba kaşığı kakao
+1 paket kabartma tozu
+1 paket vanilya
+VİŞNE SOSU İÇİN:
+1 su bardağı çekirdekleri çıkartılmış vişne
+1 tatlı kaşığı nişasta
+2 çorba kaşığı toz şeker
+1/2 su bardağı su
+ŞERBET İÇİN: 3/4 su bardağı toz şeker 1+1/4 su bardağı su</p>
+									<h3>Vişne Dolgulu Kurabiyeler Tarifi Nasıl Yapılır?</h3>
+									<p><i>Şerbet malzemelerini bir tencereye alıp 5 dakika kaynatın ve soğutun. Vişne dolgusu için tüm malzemeyi küçük bir tencereye alın ve kısık ateşte kıvam alana dek arada bir karıştırarak pişirin. Kurabiye hamuru için tüm malzemeyi geniş bir kaba alın. Yumuşak bir hamur elde edene dek yoğurun. Hamurdan ceviz büyüklüğünde parçalar koparıp avucunuzda açın. Arasına 1 adet vişne ve biraz sos yerleştirip kapatın. Pişirme kağıdı serilmiş bir fırın tepsisine dizin. Önceden ısıtılmış 180 derece fırında 20 dakika pişirin. Sıcak kurabiyeleri tek tek soğuk şerbete batırıp çıkarın. Vişne sosuyla servis yapın.</i></p>
+
+
+
+
+
+
+
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<aside id="sidebar">
+					<div class="col-md-3">
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Hakkımda</span></h2>
+							</div>
+							<div class="fh5co-staff">
+								<img src="kadın.png" alt="Free HTML5 Templates by FreeHTML5.co">
+								<h3>Tessa Huff</h3>
+								<strong class="role">CEO, Founder</strong>
+								<p><i>Merhaba! Benim, Tessa Huff! İnternetin bu küçük köşesinin arkasındaki yazar, fotoğrafçı ve tarif geliştiricisiyim. </i></p>
+								
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Katagoriler</span></h2>
+							</div>
+							<ul class="category">
+								<li><a href="pastalar.html"><i class="icon-check"></i>Pastalar</a></li>
+								<li><a href="kurabiyeler.html"><i class="icon-check"></i>Kurabiyeler</a></li>
+								<li><a href="kekler.html"><i class="icon-check"></i>Kekler</a></li>
+								<li><a href="saglikliatistirmaliklar.html"><i class="icon-check"></i>Sağlıklı Atıştırmalıklar</a></li>
+								
+							</ul>
+						</div>
+						
+					</div>
+				</aside>
+
+			</div>
+		</div>
+	</div>
+
+	<footer id="fh5co-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-4 col-md-push-1">
+					<h4>Links</h4>
+				<ul class="fh5co-footer-links">
+						<li><a href="index.html"><i>Anasayfa</i></a></li>
+						<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıştırmalıklar</i></a></li>
+						<li><a href="tatlı.html"><i>Tatlılar</i></a></li>
+						<li><a href="about.html"><i>Hakkımda</i></a></li>
+						<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i></a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-4 col-md-push-1">
+					<br><br>
+					<h4><i>İletişim bilgileri</i></h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="tel://0212 2355 98">+90 0212 2355 98</a></li>
+						<li><a href="mailto:tessa.hull@gmail.com">tessa.hull@gmail.com</a></li>
+						<li><i>Tramp Tower kat 30,</i>  <br><i>Mecidiyeköy İstanbul</i> 
+						 </li><img src="harita.png" align="text-center" width="200px" height="200px">
+						
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
