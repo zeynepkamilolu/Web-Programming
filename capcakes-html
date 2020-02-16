@@ -1,0 +1,382 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Blog,lifestyle,momy,cake,kurabiye,pasta,krema,cookie</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body style="background-color: #FFCCCC">
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="top-menu">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-7 text-left menu-1">
+								<ul>
+									<div id="sayfalogo">
+						<img src="logo.png">
+					</div>
+								</ul>
+								<ul>
+									<li class="active"><a href="index.html"><i>Anasayfa</i>/a></li>
+									<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıstırmalıklar</i></a></li>
+									<li class="has-dropdown">
+										<a href="tatlı.html"><i>Tatlılar</i></a>
+										<ul class="dropdown">
+											<li><a href="kekler.html"><i>Kekler</i></a></li>
+											<li><a href="kapkekler.html"><i>Mini Kekler</i></a></li>
+											<li><a href="pastalar.html"><i>Pastalar</i></a></li>
+											<li><a href="kurabiyeler.html"><i>Kurabiyeler</i></a></li>
+										</ul>
+									</li>
+									<li><a href="about.html"><i>Hakkımda</i></a></li>
+									<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i>
+								</ul>
+							</div>
+							<div class="col-sm-5">
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+
+
+	<div id="fh5co-content" class="fh5co-no-pd-top">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-9 col-padded-right">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center"> 
+									<h3><a>Limonlu Lavantalı Mini Kekler</a></h3>
+								</div>
+								<a><img class="img-responsive" src="images/eniyi.png" alt=""></a>
+								<div class="blog-text text-center">
+								<h2><a> Limonlu Lavantalı Mini Keklerin Tarifi için Mazemeler </h2></a>
+							<p><i>Limonlu Kek için:<i><br>
+                               6 yemek kaşığı tuzsuz tereyağı<br>
+                               3/4 su bardağı şeker<br>
+                               6 yemek kaşığı krema<br>
+                               1/2 çay kaşığı vanilya özü, 2 çay kaşığı kabartma tozu,1/4 çay kaşığı tuz<br>
+                               1 çorba kaşığı rendelenmiş limon kabuğu rendesi<br>
+                               3 büyük yumurta akı<br>
+                               1/4 su bardağı un<br>
+                               1/4 bardak süt<br>
+                               1 çorba kaşığı su<br>
+                               3 yemek kaşığı taze limon suyu<br>
+                              <i>Lavantalı Krema için:</i><br><br>
+                              1/2 su bardağı tuzlu tereyağı 
+                              4 su bardağı pudra şekeri<br>
+                              2-3 yemek kaşığı su veya süt<br>
+                              1/2 çay kaşığı vanilya<br>
+                              1/4 çay kaşığı lavanta özü<br>
+                              Lavanta çiçekleri</p><br>
+<h3>Limonlu Lavantalı Mini Keklerin Tarifi Nasıl Yapılır?</h3>
+
+<p><i>
+Frını ilk olarak  176 ° C'e ısıtın ve mini kalıpları hazırlayın.Büyük bir karıştırma kabında, tereyağı ve şekeri, açık renkli ve kabarık olana kadar yaklaşık 3-4 dakika boyunca karıştırın.Ekşi krema, vanilya özü ve limon kabuğu rendesi ekleyin ve iyice birleşene kadar karıştırın.
+İki yumurta halinde yumurta akı ekleyin, her biri iyice birleşene kadar karıştırın. Tüm malzemelerin iyi bir şekilde eklendiğinden emin olmak için kasenin yanlarına bakın.Kuru malzemeleri başka bir kapta birleştirin, ardından süt, su ve limon suyunu bir ölçüm kabında birleştirin. Kuru bileşenlerin yarısını hamura ekleyin ve iyice birleşinceye kadar karıştırın.Süt karışımını ekleyin ve iyice birleşene kadar karıştırın.
+Kalan kuru malzemeleri ekleyin ve iyice birleşene kadar karıştırın. Tüm malzemelerin iyi bir şekilde eklendiğinden emin olmak için kasenin yanlarını kazıyın.Cupcake kaplarını yaklaşık 3/4 olarak doldurun. 15-17 dakika pişirin ya da takılan bir kürdan birkaç kırıntıyla çıkıncaya kadar pişirin.
+Fırından çıkarın ve 2-3 dakika soğumaya bırakın, daha sonra soğutmayı tamamlamak için soğutma rafına çıkarın. Top kekler soğurken, Kremayı yapın. Tereyağını çırpın ve pürüzsüz hale gelene kadar çırpın. Pudra şekeri yaklaşık yarısı ekleyin ve pürüzsüz hale gelinceye kadar karıştırın. Yaklaşık 2 çorba kaşığı su veya süt ve ekstrakt ekleyin ve pürüzsüz hale gelinceye kadar karıştırın.Kalan pudra şekeri ekleyin ve pürüzsüz hale gelinceye kadar karıştırın. Gerekirse ilave su veya süt ekleyin.İstenilen mor tonuna ulaşana kadar buzlanmaya menekşe buzlanma rengi ekleyin.
+Bunun gibi kapalı bir yıldız boru ucu kullanarak, keklerin üstündeki donmayı temizleyin . Bir tutam lavanta ve yarım dilim limonla toplayın.
+</i></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href>Kara Orman Meyveli Mini Kekler</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/black-forest-cupcakes-4 (1).png" alt=""></a>
+								<div class="blog-text text-center">
+								<h3><a>Kara Orman Meyveli Mini Kekler Tarifi İçin Malzemeler</h3>
+								<p>
+                                 <i>Çikolatalı Cupcakes için:</i><br>
+                                   1/2 fincan tuzsuz tereyağı, oda sıcaklığı<br>
+                                   1 su bardağı şeker<br>
+                                   2 yumurta<br>
+                                   1çay kaşığı vanilya özü,1/2çay kaşığı kabartma tozu,1 çay kaşığı tuz<br>
+                                   6 yemek kaşığı su<br>
+                                   6 yemek kaşığı kakao<br>
+                                   1 fincan un<br>
+                                   6 yemek kaşığı süt<br>
+                                   <i>Kiraz Dolgusu için:</i><br>
+                                   1/4 bardak şeker<br>
+                                   2 yemek kaşığı mısır nişastası<br>
+                                   2 yemek kaşığı su<br>
+                                   1 su bardağı çekirdeksiz kiraz</p><br>
+<h3>Kara Orman Meyveli Mini Kekler Tarifi Nasıl Yapılır?</h3>
+<p><i>Çikolatalı Cupcakes için:<br>
+Fırını 176 ° C'e açın.Tereyağı ve şekeri, hafif ve renkli olana kadar yaklaşık 3-4 dakika çırpın.Bir seferde birer tane yumurta ilave edip harmanlanana kadar çırpın.Ayrı bir kapta vanilya özü, su ve kakao tozunu birleştirin. Pürüzsüz kadar çırpın.Hamuruna çikolata karışımı ekleyin ve birleşene kadar karıştırın. Her şeyin iyi bir şekilde birleştirildiğinden emin olmak için kasenin kenarlarını gerektiği gibi kazıyın.
+Ayrı bir kapta un, kabartma tozu ve tuzu birlikte karıştırın.Un karışımını ve sütü meyilliye ekleyerek değiştirin. Kuru karışımın yarısını ekleyerek başlayın, ardından iyice karıştırın. Sütü ekleyin ve iyice karıştırın, gerektiği şekilde yanları kazıyın. Kalan un karışımını ekleyin ve yumuşayana kadar karıştırın.Cupcake gömleklerini yaklaşık 3/4 şekilde doldurun. 15-17 dakika pişirin ya da takılan bir kürdan birkaç kırıntıyla çıkıncaya kadar pişirin.Cupcakes yaklaşık 2-3 dakika soğumaya bırakın, daha sonra soğutma bitirmek için bir soğutma rafa çıkarın.
+Vişneli Dolgu için:<br>
+ Orta boy bir tencerede şekeri, mısır nişastasını ve suyu orta ateşte bir araya getirin ve karıştırın. Karışım ıslanana ve şeker erimeye başlayana kadar ısıtın.Kirazları ilave edin ve bunları şeker karışımıyla kaplamak için karıştırın.Kirazlar yumuşamaya ve suyunu salıvermeye başlayana kadar pişirmeye devam edin.Kirazlar sulu olduğunda ve meyve suyu kalınlaşmaya başladığında ocaktan alın. Karışımı başka bir kaba dökün ve soğuyuncaya kadar soğutun.Soğuduktan sonra, merkezleri bir kek kalıbı veya bıçakla keklerden çıkarın.Merkezleri, soğutulmuş vişne dolgusu ile doldurun.</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a>Kırmızı Kadife Mini Kekler</a></h2>
+								</div>
+								<a><img class="img-responsive" src="images/red-velvet-cupcakes-5.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h3><a>Kırmızı Kadife Mini Keklerin Tarifi İçin Malzemeler</h3>
+								<p><i>Kırmızı Kadife Mini Kekler için:</i>
+									1 su bardağı un<br>
+									1 su bardağı şeker<br>
+									1 çay kaşığı kabartma tozu,1 çay kaşığı kabartma tozu,1 çay kaşığı tuz,1 çay kaşığı vanilya özü<br><br>
+									2 çay kaşığı Kakao<br>
+									1 su bardagı su<br>
+									1 çay bardağı sıvıyağ<br>
+									1 büyük yumurta<br>
+									2 çay kaşığı  kırmızı gıda boyası<br>
+
+<i>Krem Peynirli Sırlı Dondurmalar İçin:</i>
+ 8 kaşık krem ​​peynir, oda sıcaklığı<br>
+6 yemek kaşığı tereyağı, oda sıcaklığı<br>
+4 su bardağı pudra şekeri<br>
+1, çay kaşığı vanilya özü<br>
+								</p>
+                               <h3>Kırmızı Kadife Mini Kekler Tarifi Nasıl Yapılır?</h3>
+
+								<p><i> 
+Fırını 176 ° C'e açın.Geniş bir karıştırıcı kabına un, şeker, kabartma tozu, kabartma tozu, kakao ve tuzu ekleyin ve birleştirin. Kenara koyun.Orta boy bir kabın üzerine ayran, bitkisel yağ, vanilya özü, yumurta, sirke ve kırmızı gıda boyasını ekleyin ve birleştirin.Islak malzemeleri kuru bileşenlere ekleyin ve iyice birleşene kadar çırpın.Sıcak suyu yavaşça meyilliye ekleyin ve iyice birleşene kadar düşük hızda karıştırın. Her şeyin iyi bir şekilde birleştirildiğinden emin olmak için kasenin kenarlarını gerektiği gibi kazıyın.Cupcake gömleklerini yarıya kadar doldurun ve 15-17 dakika pişirin veya bir kürdan birkaç nemli kırıntı çıkıncaya kadar pişirin.Topakları fırından çıkarın ve 2 dakika soğumaya bırakın, daha sonra soğutmayı tamamlamak için bir soğutma rafına çıkarın.
+Krema için:
+Krem peynir ve tereyağını büyük bir mikser kasesinde karıştırın ve pürüzsüz hale gelinceye kadar karıştırın.2 bardak pudra şekeri ekleyin ve pürüzsüz hale gelinceye kadar karıştırın.Vanilya özü ekleyin ve pürüzsüz hale gelinceye kadar karıştırın.Kalan pudra şekeri ekleyin ve pürüzsüz hale gelinceye kadar karıştırın.Büyük bir açık yıldız uç kullanarak buzlanmayı keklerin üzerine yerleştirin  . İsterseniz çeşitli sprinkles ve yenilebilir altın yıldızlarla süsleyin.</i></a></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<h2><a href="#">Karamelli Mini Kekler</a></h2>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/caramel-mocha-cupcakes-7.png" alt=""></a>
+								<div class="blog-text text-center">
+									<h2>Karamelli Mini Kekler Tarifi İçin Malzemeler</h2>
+									<p>
+									<i>Karamelli Mini Kekler için:</i><br>
+                                     6 yemek kaşığı tuzsuz tereyağı<br>
+                                     3/4 bardak şeker<br>
+                                     6 yemek kaşığı ekşi krema<br>
+                                     1 çay kaşığı vanilya özü,2 çay kaşığı kabartma tozu,1 çay kaşığı tuz<br>
+                                     3 büyük yumurta akı<br>
+                                     1 su bardağı  un<br>
+                                     2 yemek kaşığı sıcak su<br>
+                                     6 yemek kaşığı süt, oda sıcaklığı<br>
+                                    <i>Karamelli Buzlanma için:</i><br>
+                                    1/2 fincan tuzlu tereyağı<br>
+                                    1/2 fincan kısalma<br>
+                                    4 su bardağı pudra şekeri<br>
+                                    5-6 yemek kaşığı karamel sosu<br>
+                                    1 - 2 yemek kaşığı su veya süt</p><br>
+									<h3>Karamelli Mini Kekler Tarifi Nasıl Yapılır?</h3>
+									<p><i>TALİMATLAR
+Fırını 176 ° C ısıtın ve kek kaplarını hazırlayın..Büyük bir karıştırma kabında, tereyağı ve şekeri hafif ve renkli olana kadar yaklaşık 3-4 dakika kadar karıştırın. Krema süresinin miktarına dikkat etmeyin.Ekşi krema ve vanilya özü ekleyin ve iyice karışana kadar karıştırın.Her partiden sonra iyice bir araya gelinceye kadar karıştırarak, iki yumurta halinde yumurta akı ekleyin. Tüm malzemelerin iyi bir şekilde eklendiğinden emin olmak için kasenin yanlarını kazıyın.Kuru malzemeleri ayrı bir kapta birleştirin. Sıcak suyu ve espresso kahve tozunu küçük bir ölçüm kabında birleştirin ve ardından sütü ekleyin.Kuru bileşenlerin yarısını hamura ekleyin ve iyice birleşinceye kadar karıştırın. Süt karışımını ekleyin ve iyice birleşene kadar karıştırın. Kalan kuru malzemeleri ekleyin ve iyice birleşene kadar karıştırın. Tüm malzemelerin iyi bir şekilde eklendiğinden emin olmak için kasenin yanlarını kazıyın.Cupcake gömleklerini yarıya kadar doldurun. 15-17 dakika pişirin ya da takılan bir kürdan birkaç kırıntıyla çıkıncaya kadar pişirin.Topakları fırından çıkarın ve 2-3 dakika soğumaya bırakın, daha sonra soğutmayı tamamlamak için soğutma rafına çıkarın.Buzlanmayı yapmak için tereyağını çırpın ve büyük bir karıştırıcı kabında pürüzsüz hale gelinceye kadar kısaltın.Pudra şekeri yaklaşık yarısını ekleyin ve pürüzsüz ve iyi bir şekilde bir araya gelinceye kadar karıştırın.4 çorba kaşığı karamel sosu ekleyin ve bir araya gelinceye kadar karıştırın.Kalan pudra şekeri ekleyin ve pürüzsüz hale gelinceye kadar karıştırın.Doğru kıvamlı buzlanma ve karamel aromasını elde etmek için ilave karamel sosu ve gerektiği kadar su veya süt ekleyin.Buzlanmayı soğutulmuş keklerin üzerine koyun, ardından ilave karamel sosu ile gezdirin.</i></p>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<aside id="sidebar">
+					<div class="col-md-3">
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Hakkımda</span></h2>
+							</div>
+							<div class="fh5co-staff">
+								<img src="kadın.png" alt="Free HTML5 Templates by FreeHTML5.co">
+								<h3>Tessa Huff</h3>
+								<strong class="role">CEO, Founder</strong>
+								<p><i>Merhaba! Benim, Tessa Huff! İnternetin bu küçük köşesinin arkasındaki yazar, fotoğrafçı ve tarif geliştiricisiyim. </i></p>
+								
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Katagoriler</span></h2>
+							</div>
+							<ul class="category">
+								<li><a href="pastalar.html"><i class="icon-check"></i>Pastalar</a></li>
+								<li><a href="kurabiyeler.html"><i class="icon-check"></i>Kurabiyeler</a></li>
+								<li><a href="kekler.html"><i class="icon-check"></i>Kekler</a></li>
+								<li><a href="saglikliatistirmaliklar.html"><i class="icon-check"></i>Sağlıklı Atıştırmalıklar</a></li>
+								
+							</ul>
+						</div>
+						
+					</div>
+				</aside>
+
+			</div>
+		</div>
+	</div>
+
+	<footer id="fh5co-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-4 col-md-push-1">
+					<h4>Links</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="index.html"><i>Anasayfa</i></a></li>
+						<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıştırmalıklar</i></a></li>
+						<li><a href="tatlılar.html"><i>Tatlılar</i></a></li>
+						<li><a href="about.html"><i>Hakkımda</i></a></li>
+						<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i></a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-4 col-md-push-1">
+					<br><br>
+					<h4><i>İletişim bilgileri</i></h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="tel://0212 2355 98">+90 0212 2355 98</a></li>
+						<li><a href="mailto:tessa.hull@gmail.com">tessa.hull@gmail.com</a></li>
+						<li><i>Tramp Tower kat 30,</i>  <br><i>Mecidiyeköy İstanbul</i> 
+						 </li><img src="harita.png" align="text-center" width="200px" height="200px">
+						
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
