@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ceci est une page de test 
+		<?php
+		 /*burda istediğimiz kodu yazabiliriz*/
+		?>
+		 </title>
+</head>
+<body>
+	<h2>test page</h2>
+	<p>
+		this page contains html code with php tags.<br>
+		<?php
+		/*istedigimiz php kodunu yazabiliriz*/
+		?>
+		here are some small tests:
+	</p>
+
+	<ul>
+		<li style="color: blue;">Blue text</li>
+		<li style="color: red;">Red text</li>
+		<li style="color: green;">Green Text</li>
+	</ul>
+
+</body>
+</html>
