@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Login </title>
+	<link rel="stylesheet" type="text/css" href="loginstyle.css">
+</head>
+<body >
+
+	<form method="post" action="">
+		<input type="email" placeholder="Email" name="email">
+		<input type="password" placeholder="Şifre" name="password">
+		<p style="color: aliceblue"><a href="şifremiunuttum.php"><u>Şifremi Unuttum</u></a></p>
+		<button type="submit" name="submit"> LOGIN </button>
+		<p class="message">Üye değil misiniz ? Hemen <b style="color: red"> <a href="register.php">KAYDOL </a> </b></p>
+	</form>
+
+</body>
+
+<?php
+$link=mysqli_connect('localhost', 'root', '');
+mysqli_select_db( $link, 'blogdatabase');
+if(isset($_POST["submit"]))
+{
+	$email= $_POST['email'];
+	$password= $_POST['password'];
+	$res=mysqli_query($link, "SELECT * FROM kaydol WHERE email='$email' && password='$password'");
+	$num=mysqli_num_rows($res);
+	if ($num==1) {
+		$_SESSİON['email']= $email;
+		header("location: tarifgönder.php");}
+	else 
+	{
+		echo "<script type='text/javascript'>alert('Email yada sifreniz hatalı olabilir tekrar deneyin');</script>";
+	}	
+	
+}
+?>
+
+</html>
