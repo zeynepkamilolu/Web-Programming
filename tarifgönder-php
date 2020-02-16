@@ -1,0 +1,55 @@
+ <!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Tarif Gönder </title>
+  <link rel="stylesheet" type="text/css" href="tarifgönderstyle.css">
+</head>
+<body >
+
+  <form method="post" action="tarifgönder.php">
+    <label for="Ad">Ad</label>
+    <input type="name" name="Ad" />
+    <br>
+    <br>
+    <label for="date">Tarih</label>
+    <input type="date" name="tarih" />
+    <br>
+    <label for="country">Hangi katagoriden Tarif Yüklemek İstersiniz?</label>
+    <select name="kategori">
+      <option value="pasta">Pasta</option>
+      <option value="kek">Kek</option>
+      <option value="minikek">miniKek</option>
+      <option value="tuzlukurabiye">Tuzlu Kurabiye</option>
+      <option value="tatlıkurabiye">Tatlı Kurabiye</option>
+      <option value="saglıklıatıstırmalık">Sağlıklı Atıştırmalık</option>
+    </select>
+    <br>
+    <br>
+    <br>
+    <label for="improve">Tarifiniz;</label><br><br>
+    <textarea name="tarifyaz" rows="20" cols="60"> </textarea>
+
+    <button type="submit" name="submit"> TARİF GÖNDER </button>
+
+
+  </form>
+
+</body>
+
+<?php
+$link=mysqli_connect('localhost', 'root', '');
+mysqli_select_db( $link, 'blogdatabase');
+if(isset($_POST["submit"]))
+{
+  $Ad= $_POST['Ad'];
+  $tarih= $_POST['tarih'];
+   $kategori= $_POST['kategori'];
+  $tarifyaz= $_POST['tarifyaz'];
+  $inserer=mysqli_query($link, "INSERT INTO tarif VALUES ('$Ad', '$tarih', '$kategori', '$tarifyaz') ");
+  header("location: index.html");
+  
+}
+?>
+
+</html>
