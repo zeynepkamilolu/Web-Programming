@@ -1,0 +1,385 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Blog,lifestyle,momy,cake,kurabiye,pasta,krema,cookie</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
+	<meta name="author" content="freehtml5.co" />
+
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Slab:400,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" href="css/animate.css">
+	
+	<link rel="stylesheet" href="css/icomoon.css">
+	
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	
+	<link rel="stylesheet" href="css/flexslider.css">
+
+
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	
+
+	</head>
+	<body style="background-color: #FFCCCC">
+		
+	<div class="fh5co-loader"></div>
+	
+	<div id="page">
+	<nav class="fh5co-nav" role="navigation">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="top-menu">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-7 text-left menu-1">
+								<ul>
+									<div id="sayfalogo">
+						<img src="logo.png">
+					</div>
+								</ul>
+								<ul>
+									<li class="active"><a href="index.html"><i>Anasayfa</i>/a></li>
+									<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıstırmalıklar</i></a></li>
+									<li class="has-dropdown">
+										<a href="tatlı.html"><i>Tatlılar</i></a>
+										<ul class="dropdown">
+											<li><a href="kekler.html"><i>Kekler</i></a></li>
+											<li><a href="kapkekler.html"><i>Mini Kekler</i></a></li>
+											<li><a href="pastalar.html"><i>Pastalar</i></a></li>
+											<li><a href="kurabiyeler.html"><i>Kurabiyeler</i></a></li>
+										</ul>
+									</li>
+									<li><a href="about.html"><i>Hakkımda</i></a></li>
+									<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i></a></li>
+								</ul>
+							</div>
+							<div class="col-sm-5">
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+	</nav>
+
+	<aside id="fh5co-hero">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<div class="flexslider animate-box">
+						<ul class="slides">
+					   	<li style="background-image: url(images/keklerilk.png);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-10 col-md-offset-1 slider-text">
+						   				<div class="slider-text-inner">
+												<p class="ct"><a href="kekler.html">Bütün Tarifler İçin Tıklayın...<i class="icon-arrow-right"></i></a></p>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					   	<li style="background-image: url(images/kekler1.png);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-10 col-md-offset-1 slider-text">
+						   				<div class="slider-text-inner">
+						   					<h1><i>Mini Kekler</i></h1>
+												<p class="ct"><a href="kapkekler.html">Bütün Tarifler İçin Tıklayın...<i class="icon-arrow-right"></i></a></p>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					   	<li style="background-image: url(images/pastalar.png);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-10 col-md-offset-1 slider-text">
+						   				<div class="slider-text-inner">
+						   					<h1><i>Pastalar</i></h1>
+												<p class="ct"><a href="pastalar.html">Bütün Tarifler İçin Tıklayın...<i class="icon-arrow-right"></i></a></p>
+											
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>
+					   	<li style="background-image: url(images/kurabiye.png);">
+					   		<div class="overlay-gradient"></div>
+					   		<div class="container-fluid">
+					   			<div class="row">
+						   			<div class="col-md-10 col-md-offset-1 slider-text">
+						   				<div class="slider-text-inner">
+						   					<h1><i>Kurabiyeler</i></h1>
+												<p class="ct"><a href="kurabiyeler.html">Bütün Tarifler İçin Tıklayın...<i class="icon-arrow-right"></i></a></p>
+						   				</div>
+						   			</div>
+						   		</div>
+					   		</div>
+					   	</li>		   	
+					  	</ul>
+				  	</div>
+				</div>
+
+	<div id="fh5co-content">
+		<div class="container">
+			<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span><i>En Son Atılan Postlar</i></span></h2>
+							</div>
+							
+						</div>
+			<div class="row">
+				<div class="col-md-9 col-padded-right">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="fh5co-blog animate-box">
+								<div class="title title-pin text-center">
+									<span class="posted-on">10 Nisan 2019</span>
+									<h3><a href="#"><i>Hurma Topları</i></a></h3>
+									<span class="category">Sağlıklı Atıştırmalıklar</span>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/Ekran Alıntısı1.png" alt=""></a>
+								<div class="blog-text text-center">
+									<p>Alışamadık bir türlü ismine çok aşina olmadığımız malzemelere. Belki isimleri biraz uzak geldi, belki de fiyatları biraz cebimizi yaktı. Halbuki onlarda çok rahatlıkla kullanabileceğimiz malzemeler.Ama fiyatları çok pahalı. Onu ne yapacağız?'' derseniz, bir kere alın, bu malzemelerin uzun uzadıya tadını çıkabilirsiniz diyoruz.
+ Bu malzemelerden biri de yulaf kepeği. Yulaf ezmesine ya da yulafa nazaran tadı daha hafif. Besleyicilik oranı ise müthiş. Dukan diyetinden tanıdığımız yulaf kepeği, sadece diyetlerde değil, günlük hayatta da rahatlıkla kullanabilir aslında. Özellikle şekersiz beslenenlere hurma, fındık ve kakaoyla birleşip şahane bir atıştırmalık alternatifi haline geliyor.</p>
+ 
+<h3>Tatlı tüketimine dur diyebilmek ya da bir nebze olsun nefsinizi köreltmek isterseniz bu minik toplar tam sizlik.</h3>
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<span class="posted-on">03 Nisan 2019</span>
+									<h3><a href="#">Karaorman Meyveli Minik Kekler</a></h3>
+									<span class="category">Kekler</span>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/black-forest-cupcakes-9.png" alt=""></a>
+								<div class="blog-text text-center">
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<span class="posted-on">27 Mart 2019</span>
+									<h3><a href="#">Elmalı Kek</a></h3>
+									<span class="category">Kekler</span>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/apple_crumb_cake_5.png" alt=""></a>
+								<div class="blog-text text-center">
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<span class="posted-on">20 Mart 2019</span>
+									<h3><a href="#">Armutlu Pasta</a></h3>
+									<span class="category">Pastalar</span>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/caramel-pear-cake-7.png" alt=""></a>
+								<div class="blog-text text-center">
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="fh5co-blog animate-box">
+								<div class="title text-center">
+									<span class="posted-on">13 Mart 2019</span>
+									<h3><a href="#">Tuzlu Kurabiye</a></h3>
+									<span class="category">Kurabiyeler</span>
+								</div>
+								<a href="#"><img class="img-responsive" src="images/tuzlukurabiye.png" alt=""></a>
+								<div class="blog-text text-center">
+									<ul class="fh5co-social-icons">
+									<li>Share:</li>
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+								</div> 
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<aside id="sidebar">
+					<div class="col-md-3">
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Hakkımda</span></h2>
+							</div>
+							<div class="fh5co-staff">
+								<img src="kadın.png" alt="Free HTML5 Templates by FreeHTML5.co">
+								<h3>Tessa Huff</h3>
+								<strong class="role">CEO, Founder</strong>
+								<p><i>Merhaba! Benim, Tessa Huff! İnternetin bu küçük köşesinin arkasındaki yazar, fotoğrafçı ve tarif geliştiricisiyim. </i></p>
+								
+								<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+							</div>
+						</div>
+						
+						<div class="side animate-box">
+							<div class="col-md-12 col-md-offset-0 text-center fh5co-heading fh5co-heading-sidebar">
+								<h2><span>Katagoriler</span></h2>
+							</div>
+							<ul class="category">
+								<li><a href="pastalar.html"><i class="icon-check"></i>Pastalar</a></li>
+								<li><a href="kurabiyeler.html"><i class="icon-check"></i>Kurabiyeler</a></li>
+								<li><a href="kekler.html"><i class="icon-check"></i>Kekler</a></li>
+								<li><a href="saglikliatistirmaliklar.html"><i class="icon-check"></i>Sağlıklı Atıştırmalıklar</a></li>
+								
+							</ul>
+						</div>
+						
+					</div>
+				</aside>
+
+			</div>
+		</div>
+	</div>
+
+	<footer id="fh5co-footer" role="contentinfo">
+		<div class="container">
+			<div class="row row-pb-md">
+				<div class="col-md-4 col-md-push-1">
+					<h4>Links</h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="index.html"><i>Anasayfa</i></a></li>
+						<li><a href="saglikliatistirmaliklar.html"><i>Sağlıklı Atıştırmalıklar</i></a></li>
+						<li><a href="tatlı.html"><i>Tatlılar</i></a></li>
+						<li><a href="about.html"><i>Hakkımda</i></a></li>
+						<li><a href="http://localhost/blog/login.php"><i>Tarif Gönder</i></a></li>
+					</ul>
+				</div>
+
+				<div class="col-md-4 col-md-push-1">
+					<br><br>
+					<h4><i>İletişim bilgileri</i></h4>
+					<ul class="fh5co-footer-links">
+						<li><a href="tel://0212 2355 98">+90 0212 2355 98</a></li>
+						<li><a href="mailto:tessa.hull@gmail.com">tessa.hull@gmail.com</a></li>
+						<li><i>Tramp Tower kat 30,</i>  <br><i>Mecidiyeköy İstanbul</i> 
+						 </li><img src="harita.png" align="text-center" width="200px" height="200px">
+						
+					</ul>
+				</div>
+
+			</div>
+
+			<div class="row copyright">
+				<div class="col-md-12 text-center">
+					
+					<p>
+						<ul class="fh5co-social-icons">
+							<li><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+							<li><a href="https://www.facebook.com/"><i class="icon-facebook"></i></a></li>
+							<li><a href="https://tr.linkedin.com/"><i class="icon-linkedin"></i></a></li>
+							<li><a href="https://github.com/"><i class="icon-github"></i></a></li>
+							
+						        </ul>
+					</p>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
